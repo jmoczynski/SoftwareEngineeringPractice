@@ -1,5 +1,4 @@
 package edu.ithaca.dragon.bank;
-
 import java.util.Scanner;
 
 public class AtmUI {
@@ -168,5 +167,3 @@ class Main{
         atm.loginUser();
     }
 }
-
-
